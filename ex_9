@@ -1,0 +1,3 @@
+bulls = int(input('Введите количество быков:'))
+tribes = int(input('Введите количество племен:'))
+print(bulls%tribes)
